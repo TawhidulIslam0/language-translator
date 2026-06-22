@@ -1,7 +1,7 @@
 # Language Translator App
 A clean, responsive, and functional web application that allows users to translate text between various languages. It supports real-time translation, document uploads, and a toggleable dark mode interface.
 
-#Live application
+# Live application
 https://tawhidulislam0.github.io/language-translator/
 
 🚀 Features
